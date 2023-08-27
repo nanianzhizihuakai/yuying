@@ -1,0 +1,4 @@
+*.tmp.*
+.svn
+__pycache__
+/logs
